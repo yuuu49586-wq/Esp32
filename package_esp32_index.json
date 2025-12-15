@@ -13,7 +13,7 @@
           "name": "esp32_m",
           "architecture": "esp32_m",
           "version": "3.3.4",
-          "category": "ESP32",
+          "category": "ESP32_m",
           "url": "https://github.com/espressif/arduino-esp32/releases/download/3.3.4/esp32-3.3.4.zip",
           "archiveFileName": "esp32-3.3.4.zip",
           "checksum": "SHA-256:b9793a76ff067fb064c7b934bfc9bb19a00fa9ea4474597d6f65385ebd6a3a60",
